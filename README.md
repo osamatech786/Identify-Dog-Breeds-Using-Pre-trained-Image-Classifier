@@ -1,4 +1,4 @@
-# Identify-Dog-Breeds-Using-Pre-trained-Image-Classifier-
+# Identify Dog Breeds Using Pre trained Image Classifier
 
 In this practice project, we used 3 popular classifiers
 - resnet
